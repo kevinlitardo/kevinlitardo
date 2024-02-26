@@ -1,16 +1,16 @@
-### Hi there 👋
+![Profile banner](github-header-image.png)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinlitardo/)
 
-<!--
-**kevinlitardo/kevinlitardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer since 2020, self learner, always improving. Connect with me via Linkedin
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills 💻
+- React Js
+- Next Js
+- Nest Js
+- Node Js
+- TypeScript
+- Mongo DB
+- PostgreSql
+- AWS
+- Testing
+- CI / CD
